@@ -10,7 +10,7 @@ public class App {
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("Modified from local project is so good!!!");
+        System.out.println("I really upset wit jenkns!!!");
     }
 
     public String getMessage() {
